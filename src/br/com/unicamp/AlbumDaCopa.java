@@ -9,6 +9,7 @@ public class AlbumDaCopa {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         System.out.print("Informe o total de figurinhas: ");
         Integer totalDeFigurinhas = scanner.nextInt();
 
